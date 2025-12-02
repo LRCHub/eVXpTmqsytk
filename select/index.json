@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "生命謳歌",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T12:16:58.086310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "生命謳歌",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/01_生命謳歌_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生命謳歌",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_生命謳歌_NEE.txt"
+    }
+  ]
+}
